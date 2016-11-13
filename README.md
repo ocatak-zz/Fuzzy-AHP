@@ -9,8 +9,10 @@ Second function is ConsistencyAHP with oneoutput variable and one input variable
 'CompMat' is Comparision Matrix of alternate attributes. 
 'CR' is consistency ratio 
 ```
-Cite : 
+## Cite : 
+```
 F. Ozgur Catak, Servet Karabas, and Serkan Yildirim. Fuzzy analytic 
     hierarchy based DBMS selection in turkish national identity card 
     management project. International Journal of Information Sciences and 
     Techniques (IJIST), 2(4):29–38, June 2012.
+```
